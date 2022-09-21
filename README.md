@@ -19,10 +19,9 @@ Thanks to [Dev3vd](https://github.com/D3vd) for his [Meme API](https://github.co
 ## Screenshots
 
 Dark Mode:
-![Dark-mode](https://user-images.githubusercontent.com/80666749/191501492-62416c3c-099b-47d6-ac3a-254148798231.jpg =250x250)
-
+<img src="https://user-images.githubusercontent.com/80666749/191501492-62416c3c-099b-47d6-ac3a-254148798231.jpg" width="200" height="400" />
 Light Mode:
-![LightMode](https://user-images.githubusercontent.com/80666749/191501502-0eb860fc-09df-47f0-85a1-ff1079f8d553.jpg =250x250)
+<img src="https://user-images.githubusercontent.com/80666749/191501502-0eb860fc-09df-47f0-85a1-ff1079f8d553.jpg" width="200" height="400" />
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/improbable-13/)
