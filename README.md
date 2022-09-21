@@ -4,6 +4,9 @@
 This is a simple Meme sharing app which uses a meme API. This was made as a way to test my android coding skills and I am pretty happy with the outcome.
   
 The UI is kept minimal with a simple theme followed by an added "Download" button.
+
+You can use the inbuilt download option to save the meme and the "Share" option to share the meme to all your favourite app!
+
 Tried to use material widgets to keep the look modern along with sleek curved image holder and buttons.
 You can enjoy memes and can even download them.
 ## Installation
