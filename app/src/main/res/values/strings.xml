@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memes</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="error">Something Went Wrong!</string>
+    <string name="downloadStarted">Download Has Started!</string>
+    <string name="downloadFailed">Download Failed!</string>
+</resources>
