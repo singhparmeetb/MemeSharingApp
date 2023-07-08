@@ -1,5 +1,5 @@
 
-# Meme Sharing App
+# MemeZar
 
 This is a simple Meme sharing app which uses a meme API. This was made as a way to test my android coding skills and I am pretty happy with the outcome.
   
